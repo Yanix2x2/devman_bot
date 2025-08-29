@@ -53,8 +53,7 @@ CHAT_ID=987654321
 3. Следуйте инструкциям для создания нового бота
 4. Скопируйте выданный токен
 
-- `Chat ID` Telegram чата
-Чтобы получить свой `chat_id`, напишите в Telegram специальному боту: [@userinfobot](https://telegram.me/userinfobot)
+- Чтобы получить свой `chat_id`, напишите в Telegram специальному боту: [@userinfobot](https://telegram.me/userinfobot)
 
 ## Запуск
 
