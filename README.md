@@ -61,8 +61,3 @@ CHAT_ID=987654321
 ```bash
 python main.py
 ```
-Если не указан `CHAT_ID` в `.env`, бот запросит его при запуске:
-```bash
-python main.py
-Введите свой ID: <telegram_chat_id>
-```
